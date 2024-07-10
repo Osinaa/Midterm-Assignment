@@ -22,7 +22,7 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         Menu menu1 = menu;
         Menu menu11 = menu1;
-        Menu menu12 = menu1;
+        menu1
         public boolean onCreateOptionsMenu(Menu menu1) {
 
             MenuInflater myInflater = getMenuInflater();
